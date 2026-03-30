@@ -1,0 +1,47 @@
+🚀 Worker started
+   Poll interval: 2000ms
+📋 Processing job: edb43f57-f5dc-48f9-8a1b-44199078adfa (ingest)
+📥 Processing ingest job undefined for project 6d340d02-b136-404a-9ffd-9d692d9ff2dd
+✅ Job completed: edb43f57-f5dc-48f9-8a1b-44199078adfa
+📋 Processing job: 6fea28ec-a7da-45e0-992d-2e9e79d0cfdb (ingest)
+📥 Processing ingest job undefined for project 1c0b8c4e-f5a8-4480-b1c1-31b18d4e1f95
+✅ Job completed: 6fea28ec-a7da-45e0-992d-2e9e79d0cfdb
+📋 Processing job: ff6c41a6-e084-436a-a46f-804188c0d224 (ingest)
+📥 Processing ingest job undefined for project 00899c7c-f78d-4225-b3a8-36792d055ce7
+✅ Job completed: ff6c41a6-e084-436a-a46f-804188c0d224
+📋 Processing job: 62eb1930-3297-4314-98af-5aa3f4d5e592 (ingest)
+📥 Processing ingest job undefined for project 2df78b98-8ffb-4ce2-a413-d52c17ee9a36
+✅ Job completed: 62eb1930-3297-4314-98af-5aa3f4d5e592
+📋 Processing job: job-1774901210675 (transcribe)
+🎤 Processing transcribe job job-1774901210675 for project 6d340d02-b136-404a-9ffd-9d692d9ff2dd
+✅ Job completed: job-1774901210675
+📋 Processing job: job-1774901213690 (transcribe)
+🎤 Processing transcribe job job-1774901213690 for project 1c0b8c4e-f5a8-4480-b1c1-31b18d4e1f95
+✅ Job completed: job-1774901213690
+📋 Processing job: job-1774901216723 (transcribe)
+🎤 Processing transcribe job job-1774901216723 for project 00899c7c-f78d-4225-b3a8-36792d055ce7
+✅ Job completed: job-1774901216723
+📋 Processing job: job-1774901219746 (transcribe)
+🎤 Processing transcribe job job-1774901219746 for project 2df78b98-8ffb-4ce2-a413-d52c17ee9a36
+✅ Job completed: job-1774901219746
+📋 Processing job: job-1774901224767 (generate_clips)
+✂️ Processing generate_clips job job-1774901224767 for project 6d340d02-b136-404a-9ffd-9d692d9ff2dd
+✅ Job completed: job-1774901224767
+📋 Processing job: job-1774901229812 (generate_clips)
+✂️ Processing generate_clips job job-1774901229812 for project 1c0b8c4e-f5a8-4480-b1c1-31b18d4e1f95
+✅ Job completed: job-1774901229812
+📋 Processing job: job-1774901234848 (generate_clips)
+✂️ Processing generate_clips job job-1774901234848 for project 00899c7c-f78d-4225-b3a8-36792d055ce7
+✅ Job completed: job-1774901234848
+📋 Processing job: job-1774901239884 (generate_clips)
+✂️ Processing generate_clips job job-1774901239884 for project 2df78b98-8ffb-4ce2-a413-d52c17ee9a36
+✅ Job completed: job-1774901239884
+📋 Processing job: 1d3aea3d-8978-4751-8d5d-6809efc0026f (ingest)
+📥 Processing ingest job undefined for project 9d7293c3-4033-41b2-9233-2fd6d43ece17
+✅ Job completed: 1d3aea3d-8978-4751-8d5d-6809efc0026f
+📋 Processing job: job-1774901775587 (transcribe)
+🎤 Processing transcribe job job-1774901775587 for project 9d7293c3-4033-41b2-9233-2fd6d43ece17
+✅ Job completed: job-1774901775587
+📋 Processing job: job-1774901780623 (generate_clips)
+✂️ Processing generate_clips job job-1774901780623 for project 9d7293c3-4033-41b2-9233-2fd6d43ece17
+✅ Job completed: job-1774901780623
